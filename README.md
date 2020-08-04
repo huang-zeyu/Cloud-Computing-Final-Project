@@ -1,4 +1,4 @@
-# mnist_on_the_cloud
+# Final Project -- MNIST on cloud
 Final project of Cloud Computing
 ## Group Members
 * [Zeyu Huang][1]
